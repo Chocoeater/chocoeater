@@ -8,8 +8,8 @@
 
 ## Мои навыки
 - Языки: Python, JavaScript (начальный), CSS (начальный)
-- Базы данных: PosgreSQL, SQLite
-- Технологии: REST API, Docker, Git
+- Базы данных: PosgreSQL, SQLite, MySQL | Redis
+- Технологии: REST API, Celery, Docker, Git
 
 ## Проекты
 | Название | Описание | Стек |
