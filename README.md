@@ -3,8 +3,8 @@
 Я начинающий Python-разработчик. Работаю с бэком и архитектурой web-приложений. 
 
 ## Немного о себе
-- На данный момент работаю над различными pet-проектами на Python
-- Изучаю глубже Django Rest Framework, Docker, Docker Compose, PostgreSQL и знакомлюсь с Fast API. Подтягиваю уровень английского (B1 -> B2)
+- На данный момент работаю над различными проектами на Python
+- Изучаю глубже Django Rest Framework, Docker, Docker Compose, PostgreSQL. Подтягиваю уровень английского (B1 -> B2)
 
 ## Мои навыки
 - Языки: Python, JavaScript (начальный), CSS (начальный)
