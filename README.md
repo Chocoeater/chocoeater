@@ -7,7 +7,7 @@
 - Изучаю глубже Django Rest Framework, Docker, Docker Compose, PostgreSQL. Подтягиваю уровень английского (B1 -> B2)
 
 ## Мои навыки
-- Языки: Python, JavaScript (начальный), CSS (начальный)
+- Языки: Python, JavaScript (базовый), CSS (базовый)
 - Базы данных: PosgreSQL, SQLite, MySQL | Redis
 - Технологии: REST API, Celery, Docker, Git
 
