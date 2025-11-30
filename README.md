@@ -19,6 +19,7 @@
 |[Trading-Net](https://github.com/Chocoeater/Trading-Net/tree/develop)|Веб-приложение для управления сетью поставщиков и продуктов.|Python, Poetry, Django, DRF, PostgreSQL, JWT, Docker, Docker Compose|
 |[Simple-Market](https://github.com/Chocoeater/DjangoProject/tree/develop)|Веб-приложение, которое содержит возможность публиковать и управлять продуктами, вести блог, создавать и управлять рассылками.|Python, Poetry, Django, PosgreSQL, APScheduler, Redis, Bootstrap, CSS, HTML|
 |[HH-API](https://github.com/Chocoeater/HH-API/tree/master)|Проект по объектно-ориентированному программированию, посвящённый работе с API сервиса HeadHunter, обработке данных о вакансиях и сохранению их в базу данных PostgreSQL.|Python 3.11+, REST, requests, PostgreSQL, psycopg2, Poetry, pytest|
+|[WebEdu](https://github.com/Chocoeater/WebEdu/tree/develop)|Backend образовательной платформы. Курсы, уроки, подписки на обновления, покупки уроков/курсов через Stripe, уведомления по почте и работа фоновых задач через Celery.|Python 3.13+, Django 5.x, DRF, PosgreSQL, Celery + django-celery-beat, Redis, Stripe, drf-yasg, pytest|
 
 ## Связаться со мной
 - Telegram: [@kusota](https://t.me/kusota)
